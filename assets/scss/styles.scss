@@ -1,0 +1,32 @@
+$font-family-sans-serif: 'Poppins', sans-serif;
+
+$primary: #fe6b2a;
+$secondary: #35353a;
+$dark: #000;
+$body-bg: #0c0c0e;
+$body-color: #fff;
+ 
+$navbar-dark-color: #fff;
+
+$spacer: 1rem !default;
+$spacers: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: $spacer * 5,
+  7: $spacer * 7,
+  8: $spacer * 9,
+) !default;
+
+$line-height-base: 1.6;
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+.header{
+  background: rgb(114, 124, 134) url('../images/header-background.jpg') no-repeat center/cover;
+  background-blend-mode: multiply;
+}
