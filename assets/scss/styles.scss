@@ -30,3 +30,7 @@ $line-height-base: 1.6;
   background: rgb(114, 124, 134) url('../images/header-background.jpg') no-repeat center/cover;
   background-blend-mode: multiply;
 }
+
+.play-icon{
+  transform: translate(50)-50;
+}
