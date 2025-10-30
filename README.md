@@ -1,5 +1,6 @@
 # Vera_Software_Solutions
-Project 5 for 'Bootstrap 5 From Scratch' - Packt
+Project 5 for 'Bootstrap 5 From Scratch' - Packt 
+
 https://ramirezjm.github.io/Vera_Software_Solutions/
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
